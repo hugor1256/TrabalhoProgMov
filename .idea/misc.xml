@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3725" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.3725" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.3725" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3725" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/layout/activity_alterar.xml" value="0.37135416666666665" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/layout/activity_cadastro.xml" value="0.3246753246753247" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/layout/activity_controle_de_funcionarios.xml" value="0.33" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/layout/activity_controle_de_materiais.xml" value="0.17777777777777778" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/layout/activity_crud.xml" value="0.25" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/layout/activity_primeiro.xml" value="0.37135416666666665" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/layout/activity_primiero.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/layout/activity_rcebimento_concluido.xml" value="0.33" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/layout/activity_solicita_autenticacao.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/layout/activity_solicitacao_concluida.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/layout/fragment_dashboard.xml" value="0.371875" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/layout/fragment_home.xml" value="0.371875" />
+        <entry key="..\:/Users/hugor/AndroidStudioProjects/Trabalho/app/src/main/res/layout/fragment_notifications.xml" value="0.371875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
