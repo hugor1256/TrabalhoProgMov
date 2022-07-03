@@ -26,9 +26,12 @@ public class MainActivity extends AppCompatActivity {
     public void clicaBotao(View view) {
         if(user.getText().toString().equals("Admin") && senha.getText().toString().equals("123"))
             startActivity(new Intent(MainActivity.this, Home.class));
+        if(user.getText().toString().equals("professora") && senha.getText().toString().equals("professora"))
+            startActivity(new Intent(MainActivity.this, Home.class));
         else
             Toast.makeText(this,"Verifique o preenchimento dos campos, ou o usuário nao esta autenticado no sistema", Toast.LENGTH_SHORT).show();
     }
+
     public void solicitaAutenticacao(View view) {
             startActivity(new Intent(MainActivity.this, SolicitaAutenticacao.class));
     }
