@@ -1,3 +1,6 @@
+Link do Video: https://www.youtube.com/watch?v=76cnvQ8DzRw
+Link do GitHub: https://github.com/hugor1256/TrabalhoProgMov
+
 Trabalho De prog Aplicativo de controle de obra - construção civil. 
 Alunos:  Hugo Rezende RGA: 2020.1906.003-2
 Igmar Flores 
